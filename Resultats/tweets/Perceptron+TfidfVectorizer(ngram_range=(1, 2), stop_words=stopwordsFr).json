@@ -1,0 +1,1 @@
+"              precision    recall  f1-score   support\n\n     negatif     0.7474    0.7320    0.7396    231214\n     positif     0.7324    0.7479    0.7401    226804\n\n    accuracy                         0.7398    458018\n   macro avg     0.7399    0.7399    0.7398    458018\nweighted avg     0.7400    0.7398    0.7398    458018\n""Durée : 6.326753"

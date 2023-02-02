@@ -1,0 +1,1 @@
+"              precision    recall  f1-score   support\n\n         ham     0.9770    0.9718    0.9744      1314\n        spam     0.9102    0.9259    0.9180       405\n\n    accuracy                         0.9610      1719\n   macro avg     0.9436    0.9489    0.9462      1719\nweighted avg     0.9613    0.9610    0.9611      1719\n""Durée : 5.090104"
