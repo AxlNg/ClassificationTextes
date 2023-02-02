@@ -3,7 +3,7 @@ Ce projet (travail individuel) consiste en la mise en place d’une chaîne de t
 Pour cela, deux jeux de données ont été choisi. 
 Le premier jeu concerne la détection de SPAM (corpus en anglais) et le second concerne la détection de polarité dans les tweets (corpus en français).
 
-Différentes étapes pour ce projet :
+Les différentes étapes du projet :
 - Lecture du jeu de données pour récupérer les classes (y) et les instances (X)
 - Vectorisation des instances pour les exploiter avec différents classifieurs
 - Séparation entre jeu d'entraînement et jeu de test
